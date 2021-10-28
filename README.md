@@ -1,6 +1,10 @@
 # Обновляем\даунгрейд OpenWRT на шлюзах Xiaomi DGNWG05LM
+-------
+__Владельцам шлюза Aqara ZHWG11LM [сюда](https://github.com/DivanX10/Openwrt-scripts-for-gateway-zhwg11lm)__
 
+--------
 Выражаю благодарность [Ivan Belokobylskiy](https://github.com/devbis) и [mr G1K](https://github.com/G1K) за помощь в обновлении и даунгрейде OpenWRT. 
+
 
 **Проект Open Lumi Gateway**
 
