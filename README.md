@@ -78,6 +78,11 @@ rm -rf /overlay/upper/.* /overlay/upper/* && reboot
   htop - монитор процессов в консоли
 ```
 
+> Важно! Если у вас возникли проблемы во время установки или после запуска скрипта не все пакеты установились, значит у вас не настроены фиды. Читаем эти статьи
+
+* [У меня не ставятся пакеты или установились не все пакеты](https://github.com/DivanX10/Openwrt-scripts-for-gateway-zhwg11lm/wiki/У-меня-не-ставятся-пакеты-или-установились-не-все-пакеты)
+* [При установке базовых пакетов возникают ошибки](https://github.com/DivanX10/Openwrt-scripts-for-gateway-zhwg11lm/wiki/При-установке-базовых-пакетов-возникают-ошибки)
+
 ```
 wget https://raw.githubusercontent.com/DivanX10/Openwrt-scripts-for-gateway-zhwg11lm/main/scripts/initial_installation_for_openwrt.sh -O - | sh
 ```
