@@ -1,8 +1,12 @@
 # Обновляем\даунгрейд OpenWRT на шлюзе Xiaomi DGNWG05LM
 -------
-__Владельцам шлюза Aqara ZHWG11LM [сюда](https://github.com/DivanX10/Openwrt-scripts-for-gateway-zhwg11lm)__
+__Cкрипты для установки Home Assistant находятся в разделе [Releases](https://github.com/DivanX10/OpenWRT-and-Home-Assistant/releases)__
 
 __Ответы на вопросы в разделе [WiKi](https://github.com/DivanX10/Openwrt-scripts-for-gateway-zhwg11lm/wiki)__
+
+__Владельцам шлюза Xiaomi DGNWG05LM [сюда](https://github.com/DivanX10/Openwrt-scripts-for-gateway-dgnwg05lm)__
+
+__Владельцам шлюза Aqara ZHWG11LM [сюда](https://github.com/DivanX10/Openwrt-scripts-for-gateway-zhwg11lm)__
 
 --------
 Выражаю благодарность [Ivan Belokobylskiy](https://github.com/devbis) и [mr G1K](https://github.com/G1K) за помощь в обновлении и даунгрейде OpenWRT. 
