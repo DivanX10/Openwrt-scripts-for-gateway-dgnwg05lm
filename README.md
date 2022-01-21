@@ -41,6 +41,12 @@ https://t.me/xiaomi_gw_hack
 ```
 wget https://raw.githubusercontent.com/DivanX10/Openwrt-scripts-for-gateway-dgnwg05lm/main/scripts/xiaomi_dgnwg05lm_update_openwrt_21.sh -O - | sh
 ```
+
+Обновляем OpenWRT с версии 19.07 до 21.02.01
+```
+wget https://raw.githubusercontent.com/DivanX10/Openwrt-scripts-for-gateway-dgnwg05lm/main/scripts/xiaomi_dgnwg05lm_update_openwrt_21.02.1.sh -O - | sh
+```
+
 Даунгрейд OpenWRT с версии 21.02 до 19.07
 ```
 wget https://raw.githubusercontent.com/DivanX10/Openwrt-scripts-for-gateway-dgnwg05lm/main/scripts/xiaomi_dgnwg05lm_downgrade_openwrt_19.sh -O - | sh
