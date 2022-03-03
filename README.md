@@ -93,11 +93,13 @@ rm -rf /overlay/upper/.* /overlay/upper/* || reboot
 * [У меня не ставятся пакеты или установились не все пакеты](https://github.com/DivanX10/Openwrt-scripts-for-gateway-zhwg11lm/wiki/У-меня-не-ставятся-пакеты-или-установились-не-все-пакеты)
 * [При установке базовых пакетов возникают ошибки](https://github.com/DivanX10/Openwrt-scripts-for-gateway-zhwg11lm/wiki/При-установке-базовых-пакетов-возникают-ошибки)
 
+
+**Установка без записей**
 ```
 wget https://raw.githubusercontent.com/DivanX10/Openwrt-scripts-for-gateway-zhwg11lm/main/scripts/initial_installation_for_openwrt.sh -O - | sh
 ```
 
-Установка с выводом логов
+**Установка с записью логов в файл basic_installation.log, который хранится в папке /mnt/**
 ```
 wget https://raw.githubusercontent.com/DivanX10/Openwrt-scripts-for-gateway-zhwg11lm/main/scripts/initial_installation_for_openwrt.sh -O - | sh 2>&1 | tee /mnt/basic_installation.log 
 ```
